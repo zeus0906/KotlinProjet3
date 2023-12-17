@@ -11,6 +11,7 @@ Notre projet est une application android pour l'apprentissage d'une langue local
 Vous pouvez apprendre à partir d'un Quiz qui vous permet d'apprendre pas à pas avec des images, l'audio et aussi l'écriture 
 
 - La page d'acceuil vous offres un choix de ce que vous voulez apprendre : 
+
 ![](C:\Users\NYAMBI FRANKY\OneDrive\Images\Maloko 1.jpeg)
 
 ![](C:\Users\NYAMBI FRANKY\OneDrive\Images\Maloko 2.jpeg)

@@ -12,10 +12,10 @@ Vous pouvez apprendre à partir d'un Quiz qui vous permet d'apprendre pas à pas
 
 - La page d'acceuil vous offres un choix de ce que vous voulez apprendre : 
 
-![](E:\MALOKO\ImageReadme\Maloko 1.jpeg)
+<img height="200" src="E:\MALOKO\ImageReadme\Maloko 1.jpeg" width="150"/>
 
-<img src="E:\MALOKO\ImageReadme\Maloko 2.jpeg"/>
+<img height="200" src="E:\MALOKO\ImageReadme\Maloko 2.jpeg" width="150"/>
 
-![](E:\MALOKO\ImageReadme\Maloko 3.jpeg)
+<img height="200" src="E:\MALOKO\ImageReadme\Maloko 3.jpeg" width="150"/>
 
-![](E:\MALOKO\ImageReadme\Maloko 4.jpeg)
+<img height="200" src="E:\MALOKO\ImageReadme\Maloko 4.jpeg" width="150"/>
